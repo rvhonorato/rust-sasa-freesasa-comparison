@@ -1,0 +1,8 @@
+[package]
+name = "rustsasa-freesasa"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pdbtbx = "0.12"
+rust-sasa = "0.2"
