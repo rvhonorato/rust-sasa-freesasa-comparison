@@ -4,6 +4,9 @@ This repository contains scripts to analyse the correlation between RustSASA and
 
 ## Usage
 
+> You will need Rust, R and the basic tools to compile freesasa
+
+- Clone this repository `git clone https://github.com/rvhonorato/rustsasa-freesasa-comparison`
 - [Install freesasa](https://freesasa.github.io)
 - Compile a minimal cli for `rust-sasa`
 
