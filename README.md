@@ -1,4 +1,4 @@
-# rustsasa-freesasa-comparison
+# RustSASA vs. FreeSASA
 
 This repository contains scripts to analyse the correlation between RustSASA and FreeSASA.
 
