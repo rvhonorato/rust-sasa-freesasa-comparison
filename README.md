@@ -1,6 +1,6 @@
 # RustSASA vs. FreeSASA
 
-This repository contains scripts to analyse the correlation between RustSASA and FreeSASA.
+This repository contains scripts to analyse the correlation between [RustSASA](https://github.com/maxall41/RustSASA) and [FreeSASA](https://github.com/mittinatten/freesasa).
 
 ## Usage
 
