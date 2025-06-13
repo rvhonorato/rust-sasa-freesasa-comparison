@@ -8,7 +8,7 @@ This repository contains scripts to analyse the correlation between RustSASA and
 - Compile a minimal cli for `rust-sasa`
 
   ```bash
-  cd rust-sas
+  cd rust-sasa
   crgo build --release
   cp target/release/rustsasa-freesasa ../rust-sasa-bin
   cd ..
