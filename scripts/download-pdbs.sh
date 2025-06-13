@@ -3,7 +3,7 @@
 # Input file containing PDB codes
 INPUT_FILE="freesasa-dataset.txt"
 
-# Create a directory for downloaded PDB files (optional)
+# Create a directory for downloaded PDB files
 mkdir -p pdb_files
 cd pdb_files
 
